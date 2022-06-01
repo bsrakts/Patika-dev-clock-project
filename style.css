@@ -1,0 +1,48 @@
+body {
+    background: url("wall-img.jpg");
+    background-size: cover;
+    width: auto;
+    height: auto;
+}
+
+#time {
+    position: relative;
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 56px #e84db7, 0 0 42px #F806CC, 0 4px 23px #5b06f8, 0 0 102px #f82206, 0 0 151px #3e0333;
+    font-size: 60px;
+    font-family: 'Tajawal', sans-serif;
+    letter-spacing: 7px;
+}
+
+.centeration {
+    justify-content: center;
+    margin-top: 250px;
+}
+
+.text1 {
+    position: relative;
+    text-align: center;
+    color: #151313;
+    font-size: 50px;
+    font-family: 'Tajawal', sans-serif;
+    letter-spacing: 3px;
+}
+
+.text2 {
+    position: relative;
+    text-align: center;
+    color: #f8d3be;
+    font-size: 40px;
+    font-family: 'Tajawal', sans-serif;
+    letter-spacing: 2px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+}
